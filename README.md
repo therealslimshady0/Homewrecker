@@ -32,7 +32,7 @@ This command will install all the necessary packages listed in the `requirements
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/therealslimshady0/homewrecker.git
    ```
 
 2. Navigate to the project directory:
@@ -44,14 +44,14 @@ This command will install all the necessary packages listed in the `requirements
 3. Run the following command:
 
    ```bash
-   python temp.py -u <website_url>
+   python homewrecker.py -u <website_url>
    ```
 
    Replace `<website_url>` with the base URL of the website you want to test.
 
 ## Project Structure
 
-- **temp.py:** The main script responsible for scraping websites and testing vulnerabilities.
+- **homewrecker.py:** The main script responsible for scraping websites and testing vulnerabilities.
 - **requirements.txt:** A list of Python packages required for the project.
 - **README.md:** This file provides an overview and guide for the project.
 - **LICENSE:** The project's licensing information.
