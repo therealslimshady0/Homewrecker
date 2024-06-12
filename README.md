@@ -32,13 +32,13 @@ This command will install all the necessary packages listed in the `requirements
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/therealslimshady0/homewrecker.git
+   git clone https://github.com/therealslimshady0/Homewrecker.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd your-repo
+   cd Homewrecker
    ```
 
 3. Run the following command:
